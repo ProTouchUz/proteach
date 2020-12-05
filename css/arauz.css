@@ -411,6 +411,34 @@
 .einstein-section-10 .section-context-text {
     margin-top: 50px;
 }
+.einstein-section-10-end {
+    background-color: #ff7400;
+}
+.einstein-section-11-begin {
+    background-color: #643131;
+}
+.einstein-section-11 {
+    background-color: #643131;
+    padding: 0 200px;
+}
+.einstein-section-11 .section-context-text {
+    margin-top: 50px;
+}
+.einstein-section-11 .einstein-section-h3 {
+    padding: 0;
+}
+.section-h4 {
+    color: #fff;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.einstein-section-btn span img {
+    /* margin-top: 5px; */
+    /* padding-top: 5px; */
+    margin-bottom: -4px;
+    width: 22px;
+}
 
  /* Newton styles start  */
 .newton-section-1 img {
