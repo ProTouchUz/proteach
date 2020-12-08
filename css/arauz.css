@@ -443,12 +443,6 @@
     width: 22px;
 }
 
- /* Newton styles start  */
-.newton-section-1 img {
-    width: 100%;
-}
- /* Newton styles end */
-
 .section-btn--visible {
     display: none;
 }
@@ -465,3 +459,52 @@
 .open-close--visible .section-btn--visible {
     display: inline-block;
 }
+.padding200 {
+    padding: 0 200px; 
+}
+.padding150 {
+    padding: 0 150px; 
+}
+
+ /* Newton styles start  */
+ .newton-section-1 img {
+    width: 100%;
+}
+.newton-section-1 {
+    background-color: #081075;
+}
+.question-item {
+    color: #ffffff;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.einstein-section-btn--newton {
+    border: 2px solid #A97C00;
+}
+.einstein-section-btn--newton:focus {
+    border: 2px solid #A97C00;
+}
+.einstein-section-btn--newton:hover {
+    border: 2px solid #A97C00;
+    background-color: #a97c00;
+}
+.newton-section-1-end {
+    background-color: #081075;
+}
+.newton-section-2-begin {
+    background-color: #A97C00;
+}
+.newton-section-2 {
+    background-color: #A97C00;
+}
+.newton-section-2-end {
+    background-color: #A97C00;
+}
+.newton-section-3-begin {
+    background-color: #081075;
+}
+.newton-section-3 {
+    background-color: #081075;
+
+}
+ /* Newton styles end */
