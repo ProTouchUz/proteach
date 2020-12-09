@@ -460,6 +460,9 @@
 .open-close--visible .section-btn--visible {
     display: inline-block;
 }
+.padding300 {
+    padding: 0 300px;
+}
 .padding200 {
     padding: 0 200px; 
 }
@@ -509,3 +512,11 @@
 
 }
  /* Newton styles end */
+
+ /* Atom fessing begin  */
+
+ .atomfis-section-1 {
+     background-color: #FF6A00;
+ }
+
+ /* Atom fessing end  */
