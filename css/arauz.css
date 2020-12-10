@@ -518,5 +518,55 @@
  .atomfis-section-1 {
      background-color: #FF6A00;
  }
-
+.atomfis-section-1 .einstein-section-9_item::after,
+.atomfis-section-3 .einstein-section-9_item::after {
+    /* background-color: #188A00; */
+    background-color: #01a894;
+}
+.atomfis-section-1-end {
+    background-color: #FF6A00;
+}
+.atomfis-section-2-begin {
+    background-color: #01a894;
+}
+.atomfis-section-2 {
+    background-color: #01a894;
+}
+.einstein-section-btn--atomfis {
+    border: 2px solid #fff;
+}
+.einstein-section-btn--atomfis:focus {
+    border: 2px solid #FF6A00;
+}
+.einstein-section-btn--atomfis:hover {
+    border: 2px solid #FF6A00;
+    background-color: #ff6a00;
+}
+.atomfis-section-2-end {
+    background-color: #01a894;
+}
+.atomfis-section-3-begin {
+    background-color: #FF6A00;
+}
+.atomfis-section-3 {
+    background-color: #FF6A00;
+}
+.atomfis-section-3-end {
+    background-color: #FF6A00;
+}
+.atomfis-section-4-begin {
+    background-color: #01a894;
+}
+.atomfis-section-4  {
+    background-color: #01a894;
+}
+.atomfis-section-4-table,
+.atomfis-section-4-table td {
+    border: 2px solid #fff!important;
+    /* background-color: #fff; */
+}
+.atomfis-section-4-table td {
+    padding: 20px;
+    font-size: 24px;
+}
  /* Atom fessing end  */
